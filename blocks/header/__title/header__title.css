@@ -1,0 +1,12 @@
+.header__title {
+    width: 730px;
+    font-size: 102px;
+    align-self: center;
+    line-height: 96px;
+    margin-left: 64px;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    z-index: 2;
+    /*если по брифу у меня указан размер (например маргин лефт 64пх, то получается остальные стороны я должен обнулить?)*/
+  }

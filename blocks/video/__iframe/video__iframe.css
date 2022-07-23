@@ -1,0 +1,10 @@
+.video__iframe {
+  margin:0;
+  border: 0;
+  width: 515px;
+  height: 316px;
+}
+.video__iframe:first-child{
+margin-right: 20px;
+}
+/* Спасибо, что дали последний шанс, а не отправили в академ. Дай Бог вам здоровья */

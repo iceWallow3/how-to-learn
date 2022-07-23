@@ -1,0 +1,10 @@
+.footer__social-icon {
+    list-style: none;
+    text-decoration: none;
+    height: 16px;
+    width: 16px;
+    margin-top:0;
+    margin-right: 10px;
+    margin-left: 0;
+    margin-bottom: 0;
+  }
